@@ -3,7 +3,7 @@
 
 ## 2.比赛描述
 
-是本次竞赛的目标：创建可用于帮助检测与分类，评估脊柱退行性疾病，使用腰椎MR图像。参赛者将开发模型来模拟放射科医生诊断脊柱疾病的表现。 
+是本次竞赛的目标：创建可用于帮助检测与分类，评估脊柱退行性疾病，使用腰椎MR图像。参赛者将开发模型来模拟放射科医生诊断脊柱疾病的表现。 数据集[PSNA 2024](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data)
 
 #### 腰椎疾病类别  MRI图像
 ````
