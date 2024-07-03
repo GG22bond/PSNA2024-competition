@@ -6,13 +6,14 @@
 是本次竞赛的目标：创建可用于帮助检测与分类，评估脊柱退行性疾病，使用腰椎MR图像。参赛者将开发模型来模拟放射科医生诊断脊柱疾病的表现。 数据集[PSNA 2024](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data)
 
 #### 腰椎疾病类别  MRI图像
-````
-Left Neural Foraminal Narrowing       |    左侧神经孔狭窄
-Right Neural Foraminal Narrowing      |    右侧神经孔狭窄
-Left Subarticular Stenosis            |    左侧关节下狭窄
-Right Subarticular Stenosis           |    右侧关节下狭窄
-Spinal Canal Stenosis                 |    椎管狭窄 
-````
+
+| Left Neural Foraminal Narrowing   | 左侧神经孔狭窄|
+|-----------------------------------|--------|
+| Right Neural Foraminal Narrowing  | 右侧神经孔狭窄 |
+| Left Subarticular Stenosis        | 左侧关节下狭窄 |
+| Right Subarticular Stenosis       | 右侧关节下狭窄 |
+| Spinal Canal Stenosis             | 椎管狭窄   |
+
 #### 脊椎的五种水平，严重性分为3种评分：Normal/Mild, Moderate, or Severe（正常/轻度、中度或重度）
 ````
 L1/L2
