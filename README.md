@@ -54,6 +54,8 @@ google翻译
 <img src="img/img2.png" height="480">
 
 ### 数据文件说明
+<img src="img/img6.png" height="160">
+
 #### train.csv
 包含训练集的标签。 每条记录包括：
 - study_id （字符串）： 研究 ID。
